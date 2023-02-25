@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Iteration and Recursion", "Iteration and Recursion.pyproj", "{701DB141-9E60-4358-86A2-BD34CB273012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701DB141-9E60-4358-86A2-BD34CB273012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701DB141-9E60-4358-86A2-BD34CB273012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13EA8F45-0128-4058-9EBD-1E634308C0D8}
+	EndGlobalSection
+EndGlobal
